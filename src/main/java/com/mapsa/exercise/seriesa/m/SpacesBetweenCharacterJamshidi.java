@@ -1,6 +1,7 @@
 package com.mapsa.exercise.seriesa.m;
 
 public class SpacesBetweenCharacterJamshidi {
+
     public static String spaceMeOut(String str) {
         StringBuilder builder = new StringBuilder("");
         for (int i = 0; i < str.length() - 1; i++) {

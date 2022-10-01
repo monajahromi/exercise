@@ -1,6 +1,7 @@
 package com.mapsa.exercise.seriesa.n;
 
 public class RepeatingLettersNTimesJamshidi {
+
     public static String repeat(String str, int n) {
         StringBuilder builder = new StringBuilder("");
         for (int i = 0; i < str.length(); i++) {
