@@ -1,7 +1,6 @@
 package com.mapsa.exercise.seriesa.j;
 
 public class CheckArrayCanNestedInAnotherJamshidi {
-
     public static boolean canNest(int[] arr1, int[] arr2) {
         arr1 = getMinMax(arr1);
         arr2 = getMinMax(arr2);

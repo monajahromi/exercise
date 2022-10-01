@@ -1,7 +1,6 @@
 package com.mapsa.exercise.seriesa.l;
 
 public class MaximumPossibleTotalJamshidi {
-
     public static int maxTotal(int[] nums) {
         long res = 0;
         int i, j;
