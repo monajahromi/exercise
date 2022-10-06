@@ -4,7 +4,6 @@ public class GetSumOfPeopleBudget {
 	
 	public static double getBudgets(Person[] persons) {
 		return 0;
-
 	}
 
 }
