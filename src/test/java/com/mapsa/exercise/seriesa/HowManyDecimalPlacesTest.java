@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import com.mapsa.exercise.seriesa.d.HowManyDecimalPlaces;
+import com.mapsa.exercise.seriesa.c.d.HowManyDecimalPlaces;
 
 public class HowManyDecimalPlacesTest {
 

@@ -1,4 +1,4 @@
-package com.mapsa.exercise.seriesa.d.raminRezaei;
+package com.mapsa.exercise.seriesa.c.d.raminRezaei;
 
 public class HowManyDecimalPlacesRaminRezaei {
 

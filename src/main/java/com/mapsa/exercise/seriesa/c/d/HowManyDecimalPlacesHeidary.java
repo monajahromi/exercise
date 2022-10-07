@@ -1,4 +1,4 @@
-package com.mapsa.exercise.seriesa.d;
+package com.mapsa.exercise.seriesa.c.d;
 
 public class HowManyDecimalPlacesHeidary {
 

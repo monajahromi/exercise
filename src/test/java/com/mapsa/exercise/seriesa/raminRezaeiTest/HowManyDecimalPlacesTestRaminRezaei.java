@@ -1,7 +1,6 @@
 package com.mapsa.exercise.seriesa.raminRezaeiTest;
 
-import com.mapsa.exercise.seriesa.d.HowManyDecimalPlaces;
-import com.mapsa.exercise.seriesa.d.raminRezaei.HowManyDecimalPlacesRaminRezaei;
+import com.mapsa.exercise.seriesa.c.d.raminRezaei.HowManyDecimalPlacesRaminRezaei;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
