@@ -1,12 +1,8 @@
 
-~squid:S4165
-"bRemove this useless assignment; "name" already holds the assigned value along all execution paths.(É´“ıÿÿÿÿ
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë–ê¿
-Bsquid:S1172	"&Remove these unused method parameters.(Òƒ€›øÿÿÿÿ
-Csquid:S1172&"-Remove this unused method parameter "string".(£¯„
-Nsquid:S1135'"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
-Psquid:S3400-"9Remove this method and declare a constant for this value.(”·³›
-Nsquid:S1135,"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
-Nsquid:S11351"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
-Nsquid:S11356"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
-Nsquid:S1135;"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+squid:S1319"rThe type of the "strings" object should be an interface such as "List" rather than the implementation "ArrayList".(‰…õ¯8°Âº0
+Ssquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8°Âº0
+Ysquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ğ†¯Âº0
+Gsquid:UselessImportCheck"Remove this duplicated import.(÷‰îƒ8°Âº0
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8°Âº0
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë–ê¿8Ğ†¯Âº0
+Ssquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8°Âº0

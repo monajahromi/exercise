@@ -1,4 +1,4 @@
 
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äŠ¥”
 Vsquid:S1118":Add a private constructor to hide the implicit public one.(˜ÎàŒıÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äŠ¥”
 ?squid:S1643"Use a StringBuilder instead.(şˆæüÿÿÿÿ8Íöûº0
