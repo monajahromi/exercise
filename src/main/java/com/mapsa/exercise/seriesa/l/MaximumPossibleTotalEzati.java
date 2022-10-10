@@ -1,6 +1,6 @@
 package com.mapsa.exercise.seriesa.l;
 
-public class MaximumPossibleTotalHeidary {
+public class MaximumPossibleTotalEzati{
 	public static int maxTotal(int[] nums) {
 		int[] sorted = sort(nums);
 		int sumOf5 = 0;

@@ -1,6 +1,6 @@
 package com.mapsa.exercise.seriesa.g;
 
-public class VowelReplacerHeidary {
+public class VowelReplacerEzati{
 	public static String replaceVowels(String str, char ch) {
 		String[] spilted = str.split("(?!^)");
 		for (int i = 0; i < spilted.length; i++) {

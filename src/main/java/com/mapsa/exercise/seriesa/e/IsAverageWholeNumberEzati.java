@@ -1,6 +1,6 @@
 package com.mapsa.exercise.seriesa.e;
 
-public class IsAverageWholeNumberHeidary {
+public class IsAverageWholeNumberEzati {
 	public static boolean isAvgWhole(int[] arr) {
 		Integer sum = 0;
 		for (int i = 0; i < arr.length; i++) {

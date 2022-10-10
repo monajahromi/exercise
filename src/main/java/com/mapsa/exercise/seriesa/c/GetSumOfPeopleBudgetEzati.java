@@ -1,6 +1,6 @@
 package com.mapsa.exercise.seriesa.c;
 
-public class GetSumOfPeopleBudgetHeidary {
+public class GetSumOfPeopleBudgetEzati{
 
     public static double getBudgets(Person[] persons) {
         double result = new Integer(0);

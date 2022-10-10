@@ -1,6 +1,6 @@
 package com.mapsa.exercise.seriesa.m;
 
-public class SpacesBetweenCharacterHeidary {
+public class SpacesBetweenCharacterEzati {
 	public static String spaceMeOut(String str) {
 		String[] splited = str.split("(?!^)");
 		String joined = "";

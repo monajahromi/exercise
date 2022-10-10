@@ -1,6 +1,6 @@
 package com.mapsa.exercise.seriesa.f;
 
-public class MatchLastItemHeidary {
+public class MatchLastItemEzati {
 	  public static boolean matchLastItem(String[] t) {
 		  String joined = "";
 		  for (int i = 0; i < t.length - 1; i++) {

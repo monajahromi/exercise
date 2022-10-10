@@ -1,6 +1,6 @@
 package com.mapsa.exercise.seriesa.j;
 
-public class CheckArrayCanNestedInAnotherHeidary {
+public class CheckArrayCanNestedInAnotherEzati{
 	public static boolean canNest(int[] arr1, int[] arr2) {
 		if (sort(arr1)[0] > sort(arr2)[0] && sort(arr1)[arr1.length - 1] < sort(arr2)[arr2.length - 1])
 			return true;

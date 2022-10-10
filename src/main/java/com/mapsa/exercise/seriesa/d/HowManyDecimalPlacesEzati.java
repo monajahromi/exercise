@@ -1,6 +1,6 @@
 package com.mapsa.exercise.seriesa.d;
 
-public class HowManyDecimalPlacesHeidary {
+public class HowManyDecimalPlacesEzati {
 
 	public static int getDecimalPlaces(String num) {
 

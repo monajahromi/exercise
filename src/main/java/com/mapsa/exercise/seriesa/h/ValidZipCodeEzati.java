@@ -1,6 +1,6 @@
 package com.mapsa.exercise.seriesa.h;
 
-public class ValidZipCodeHeidary {
+public class ValidZipCodeEzati {
 	public static boolean isValid(String zip) {
 		String[] splited = zip.split("(?!^)");
 		if (splited.length > 5) {//most not be greater than 5 digits in length

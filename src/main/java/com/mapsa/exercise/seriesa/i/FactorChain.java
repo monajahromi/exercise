@@ -2,7 +2,12 @@ package com.mapsa.exercise.seriesa.i;
 
 public class FactorChain {
 	public static boolean factorChain(int[] arr) {
-		return false;
+		for (int i = 0; i < arr.length; i++) {
+			if (arr[arr.length - 1] % arr[i] != 0) {
+				return false;
+			}
 
+		}
+		return true;
 	}
 }

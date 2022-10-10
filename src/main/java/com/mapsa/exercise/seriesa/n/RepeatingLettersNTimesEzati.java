@@ -1,6 +1,6 @@
 package com.mapsa.exercise.seriesa.n;
 
-public class RepeatingLettersNTimesHeidary {
+public class RepeatingLettersNTimesEzati{
 	public static String repeat(String str, int n) {
 		String[] splited = str.split("(?!^)");
 		String joined = "";
