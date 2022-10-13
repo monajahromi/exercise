@@ -4,41 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07344d0a-ba29-40e9-ab78-284a20c2bef9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/a/WarOfNumbersNorouzi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/b/CoffeeShopNorouzi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/c/GetSumOfPeopleBudgetNorouzi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/c/d/HowManyDecimalPlacesNorouzi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/e/IsAverageWholeNumberNorouzi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/f/MatchLastItemNorouzi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/g/VowelReplacerNorouzi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/h/ValidZipCodeNorouzi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/i/FactorChainNorouzi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/j/CheckArrayCanNestedInAnotherNorouzi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/k/SpecialArraysNorouzi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/l/MaximumPossibleTotalNorouzi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/m/SpacesBetweenCharacterNorouzi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/n/RepeatingLettersNTimesNorouzi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mapsa/exercise/seriesa/CheckArrayCanNestedInAnotherNorouziTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mapsa/exercise/seriesa/HowManyDecimalPlacesNorouziTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mapsa/exercise/seriesa/IsAverageWholeNumberNorouziTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mapsa/exercise/seriesa/MatchLastItemNorouziTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mapsa/exercise/seriesa/MaximumPossibleTotalNorouziTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mapsa/exercise/seriesa/RepeatingLettersNTimesNorouziTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mapsa/exercise/seriesa/SpacesBetweenCharacterNorouziTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mapsa/exercise/seriesa/SpecialArraysNorouziTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mapsa/exercise/seriesa/ValidZipCodeNorouziTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mapsa/exercise/seriesa/VowelReplacerNorouziTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mapsa/exercise/seriesa/WarOfNumbersNorouziTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/d/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/c/d/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/d/HowManyDecimalPlaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/c/d/HowManyDecimalPlaces.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/d/HowManyDecimalPlacesHeidary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/c/d/HowManyDecimalPlacesHeidary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/d/raminRezaei/HowManyDecimalPlacesRaminRezaei.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mapsa/exercise/seriesa/c/d/raminRezaei/HowManyDecimalPlacesRaminRezaei.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/mapsa/exercise/seriesa/HowManyDecimalPlacesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mapsa/exercise/seriesa/HowManyDecimalPlacesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/mapsa/exercise/seriesa/raminRezaeiTest/HowManyDecimalPlacesTestRaminRezaei.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mapsa/exercise/seriesa/raminRezaeiTest/HowManyDecimalPlacesTestRaminRezaei.java" afterDir="false" />
+    <list default="true" id="01dba8bb-145f-4b7a-b4a4-29a6457afa22" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2FmC7wGB2oLDMsSoLmHNsJhLlnX" />
+  <component name="ProjectId" id="2FolghxMnIQubmncpg5L4DhVsb9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,31 +23,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/mapsa/exercise/seriesa" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Mapsa_Academy\code\exercise-main\exercise\src\test\java\com\mapsa\exercise\seriesa" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.mapsa.exercise.seriesa.n" />
-      <recent name="com.mapsa.exercise.seriesa.m" />
-      <recent name="com.mapsa.exercise.seriesa.l" />
-      <recent name="com.mapsa.exercise.seriesa.k" />
-      <recent name="com.mapsa.exercise.seriesa.j" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="07344d0a-ba29-40e9-ab78-284a20c2bef9" name="Changes" comment="" />
-      <created>1665087708829</created>
+      <changelist id="01dba8bb-145f-4b7a-b4a4-29a6457afa22" name="Changes" comment="" />
+      <created>1665166430378</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1665087708829</updated>
-      <workItem from="1665087710014" duration="709000" />
+      <updated>1665166430378</updated>
+      <workItem from="1665166431813" duration="174000" />
+      <workItem from="1665251484962" duration="7000" />
     </task>
     <servers />
   </component>
