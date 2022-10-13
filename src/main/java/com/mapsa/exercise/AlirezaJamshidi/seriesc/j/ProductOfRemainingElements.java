@@ -1,7 +1,5 @@
 package com.mapsa.exercise.AlirezaJamshidi.seriesc.j;
 
-import java.util.Arrays;
-
 public class ProductOfRemainingElements {
     public static boolean canPartition(int[] input) {
         if (input.length > 2) {

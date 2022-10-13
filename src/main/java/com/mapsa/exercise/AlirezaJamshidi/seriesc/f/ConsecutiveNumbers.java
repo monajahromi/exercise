@@ -13,8 +13,8 @@ public class ConsecutiveNumbers {
             return false;
         } else {
             Arrays.sort(input);
-            for (int i = 0; i < input.length; i++) {
-                if (!Objects.equals(input[i], i + 1)) {
+            for (int i = 1; i < input.length; i++) {
+                if (!Objects.equals(input[i] - input[i-1], 1)) {
                     return false;
                 }
             }

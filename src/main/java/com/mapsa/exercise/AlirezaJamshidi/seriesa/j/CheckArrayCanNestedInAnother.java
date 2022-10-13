@@ -11,12 +11,8 @@ public class CheckArrayCanNestedInAnother {
         int max = arr[0];
         int min = arr[0];
         for (int e : arr) {
-            if (e > max) {
-                max = Math.max(e, max);
-            }
-            if (e < min) {
-                min = Math.min(e, min);
-            }
+            max = Math.max(e, max);
+            min = Math.min(e, min);
         }
         return new int[]{min, max};
     }

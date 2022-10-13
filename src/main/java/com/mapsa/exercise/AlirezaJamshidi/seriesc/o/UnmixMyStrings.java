@@ -1,7 +1,5 @@
 package com.mapsa.exercise.AlirezaJamshidi.seriesc.o;
 
-import java.util.Arrays;
-
 public class UnmixMyStrings {
     public static String unmix(String input) {
         if (input.length() < 2) {
