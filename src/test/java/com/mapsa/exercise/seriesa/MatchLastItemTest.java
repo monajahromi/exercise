@@ -2,9 +2,8 @@ package com.mapsa.exercise.seriesa;
 
 import static org.junit.Assert.assertEquals;
 
-import org.junit.Test;
-
 import com.mapsa.exercise.seriesa.f.MatchLastItem;
+import org.junit.Test;
 
 public class MatchLastItemTest {
 	@Test

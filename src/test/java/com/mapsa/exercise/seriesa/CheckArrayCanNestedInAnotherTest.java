@@ -3,9 +3,8 @@ package com.mapsa.exercise.seriesa;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
-import org.junit.Test;
-
 import com.mapsa.exercise.seriesa.j.CheckArrayCanNestedInAnother;
+import org.junit.Test;
 
 public class CheckArrayCanNestedInAnotherTest {
 	public static boolean canNest(int[] arr1, int[] arr2) {

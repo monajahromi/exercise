@@ -7,9 +7,6 @@ import org.junit.Test;
 import com.mapsa.exercise.seriesb.e.Stuttering;
 
 public class StutteringTest {
-	
-	
-	
 	@Test
 	public void test01() { 
 		assertEquals("in... in... increasing?", Stuttering.stutter("increasing"));

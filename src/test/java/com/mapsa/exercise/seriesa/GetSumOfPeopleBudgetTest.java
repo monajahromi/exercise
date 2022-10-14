@@ -2,9 +2,9 @@ package com.mapsa.exercise.seriesa;
 
 import static org.junit.Assert.assertTrue;
 
+import com.mapsa.exercise.seriesa.c.GetSumOfPeopleBudget;
 import org.junit.Test;
 
-import com.mapsa.exercise.seriesa.c.GetSumOfPeopleBudget;
 import com.mapsa.exercise.seriesa.c.Person;
 
 public class GetSumOfPeopleBudgetTest {

@@ -2,9 +2,8 @@ package com.mapsa.exercise.seriesa;
 
 import static org.junit.Assert.assertEquals;
 
-import org.junit.Test;
-
 import com.mapsa.exercise.seriesa.h.ValidZipCode;
+import org.junit.Test;
 
 public class ValidZipCodeTest {
 	@Test
