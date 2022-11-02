@@ -6,6 +6,13 @@ public class ValidatePinJafarian {
         boolean check1 = false;
         boolean check2 = false;
         boolean check3 = false;
+       /* String pattern = "[^\\s][0-9]\\w{4,6}$";
+
+        if (str.matches(pattern))
+            return true;
+        else return false;*/
+
+
         if (str.length() == 0)
             return false;
 

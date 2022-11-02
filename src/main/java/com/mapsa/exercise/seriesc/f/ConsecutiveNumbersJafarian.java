@@ -3,7 +3,7 @@ package com.mapsa.exercise.seriesc.f;
 import java.util.Arrays;
 
 public class ConsecutiveNumbersJafarian {
-    int count = 0;
+
 
     public static boolean consecutiveNumbers(int[] array) {
         Arrays.sort(array);

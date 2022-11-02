@@ -42,7 +42,6 @@ public class ValidateJafarianTest {
         assertFalse(ValidatePinJafarian.validatePin(" 54983" ));
     }
 
-
     @Test
     public void test8() {
         assertFalse(ValidatePinJafarian.validatePin("" ));
@@ -52,9 +51,5 @@ public class ValidateJafarianTest {
     public void test9() {
         assertFalse(ValidatePinJafarian.validatePin(" " ));
     }
-
-
-
-
 
 }
